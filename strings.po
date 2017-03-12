@@ -13846,7 +13846,7 @@ msgstr "Kliknij by posortować"
 #. STRINGS.UI.TOOLTIPS.SPEEDBUTTON_FAST
 msgctxt "STRINGS.UI.TOOLTIPS.SPEEDBUTTON_FAST"
 msgid "Fast speed {0}"
-msgstr "Duża szybosć {0}"
+msgstr "Duża szybkość {0}"
 
 #. STRINGS.UI.TOOLTIPS.SPEEDBUTTON_MEDIUM
 msgctxt "STRINGS.UI.TOOLTIPS.SPEEDBUTTON_MEDIUM"
@@ -13861,7 +13861,7 @@ msgstr "Normalna szybkość {0}"
 #. STRINGS.UI.TOOLTIPS.STATSPANEL
 msgctxt "STRINGS.UI.TOOLTIPS.STATSPANEL"
 msgid "The Stats Panel gives an overview of your Duplicant's individual stats"
-msgstr "Panek Statusu zapewnia podgląd wszystkich statystyk Duplikanta"
+msgstr "Panel Statusu zapewnia podgląd wszystkich statystyk Duplikanta"
 
 #. STRINGS.UI.TOOLTIPS.STORAGEMAINBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.STORAGEMAINBUTTON"
@@ -14451,12 +14451,12 @@ msgstr "Anuluj rozkaz tych zbiorów"
 #. STRINGS.UI.USERMENUACTIONS.CANCELMOP.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELMOP.NAME"
 msgid "Cancel Mop"
-msgstr "Anuluj Mopowanie"
+msgstr "Anuluj Mopowanie" (?) Wycieranie
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELMOP.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELMOP.TOOLTIP"
 msgid "Cancel this mop order"
-msgstr "Anuluj rozkaz tego mopowania"
+msgstr "Anuluj rozkaz tego mopowania" (?) Wycierania ?
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELUPROOT.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELUPROOT.NAME"
@@ -14511,7 +14511,7 @@ msgstr "Anuluj Dekonstrukcję"
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.TOOLTIP"
 msgid "Demolish this building\n------------------\nRefunds all resources"
-msgstr "Zniszcz ten budynek\n------------------\nRefunduje wszystkie surowce"
+msgstr "Zniszcz ten budynek\n------------------\nZwraca wszystkie surowce"
 
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.TOOLTIP_OFF"
@@ -14666,7 +14666,7 @@ msgstr "Izoluj tego Duplikanta"
 #. STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP_DISABLED
 msgctxt "STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP_DISABLED"
 msgid "No quarantine zone assigned"
-msgstr "Nieokreślona strefa kwarantanny"
+msgstr "Nieokreślona strefa kwarantanny" (?) - Nie przypisano/ustalono strefy kwarantanny?
 
 #. STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP_OFF"
@@ -14751,7 +14751,7 @@ msgstr "Sytość"
 #. STRINGS.UI.VITALSSCREEN_EATENTODAY
 msgctxt "STRINGS.UI.VITALSSCREEN_EATENTODAY"
 msgid "Eaten Today"
-msgstr "Dziś Zdjedzone"
+msgstr "Dziś Zjedzone"
 
 #. STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP
 msgctxt "STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP"
@@ -14802,7 +14802,7 @@ msgstr "! ALARM !"
 #. STRINGS.UI.WORLDGEN.ANALYZINGWORLD
 msgctxt "STRINGS.UI.WORLDGEN.ANALYZINGWORLD"
 msgid "Shuffling DNA Blueprints..."
-msgstr "Mieszanie w DNA..."
+msgstr "Mieszanie Kodów DNA..."
 
 #. STRINGS.UI.WORLDGEN.ANALYZINGWORLDCOMPLETE
 msgctxt "STRINGS.UI.WORLDGEN.ANALYZINGWORLDCOMPLETE"
@@ -14812,12 +14812,12 @@ msgstr "Porządkowanie przed przybyciem Duplikantów..."
 #. STRINGS.UI.WORLDGEN.BORDERS
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS"
 msgid "Just adding water..."
-msgstr "Zalewanie świata cieczami..."
+msgstr "Po prostu dodawanie wody..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS1
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS1"
 msgid "Just adding water..."
-msgstr "Zalewanie świata cieczami..."
+msgstr "Po prostu dodawanie wody..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS2
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS2"
@@ -14877,42 +14877,42 @@ msgstr "Sortowanie kwadryliona atomów..."
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE3
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE3"
 msgid "Ironing the fabric of creation..."
-msgstr "Szlifowanie materiału stworzenia..."
+msgstr "Szlifowanie materiału stworzenia..." (?) Prasowanie?
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE4
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE4"
 msgid "Ironing the fabric of creation..."
-msgstr "Szlifowanie materiału stworzenia..."
+msgstr "Szlifowanie materiału stworzenia..." (?) Prasowanie?
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE5
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE5"
 msgid "Ironing the fabric of creation..."
-msgstr "Szlifowanie materiału stworzenia..."
+msgstr "Szlifowanie materiału stworzenia..." (?) Prasowanie?
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE6
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE6"
 msgid "Taking hot meteor shower..."
-msgstr "Branie gorącej kąpieli w meteorze..."
+msgstr "Branie gorącej kąpieli w meteorze..." (?) nie kąpiel a prysznic;"Meteor shower" to spadające gwiazdy - gra słów
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE7
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE7"
 msgid "Tightening asteroid belts..."
-msgstr "Dociskanie pasa asteroid..."
+msgstr "Zaciskanie pasa/pasów asteroid..." (?)
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE8
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE8"
 msgid "Tightening asteroid belts..."
-msgstr "Dociskanie pasa asteroid..."
+msgstr "Zaciskanie pasa/pasów asteroid..." (?)
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE9
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE9"
 msgid "Tightening asteroid belts..."
-msgstr "Dociskanie pasa asteroid..."
+msgstr "Zaciskanie pasa/pasów asteroid..." (?)
 
 #. STRINGS.UI.WORLDGEN.CHOOSEWORLDSIZE
 msgctxt "STRINGS.UI.WORLDGEN.CHOOSEWORLDSIZE"
 msgid "Select the magnitude of your new galaxy."
-msgstr "Wybierz wielkość nowej galaktyki"
+msgstr "Wybierz wielkość Twojej nowej galaktyki"
 
 #. STRINGS.UI.WORLDGEN.CLEARINGLEVEL
 msgctxt "STRINGS.UI.WORLDGEN.CLEARINGLEVEL"
@@ -14927,27 +14927,27 @@ msgstr "Sukces! Kosmiczna przygoda czeka."
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT"
 msgid "Cooling glass..."
-msgstr "Chłodzenie szkła..."
+msgstr "Chłodzenie/hartowanie szkła..." (?)
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT1
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT1"
 msgid "Cooling glass..."
-msgstr "Chłodzenie szkła..."
+msgstr "Chłodzenie/hartowanie szkła..." (?)
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT10
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT10"
 msgid "Adding buckets of dirt..."
-msgstr "Nabieranie ziemi do wiaderek..."
+msgstr "Dodawanie wiaderek ziemi..." (?)
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT2
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT2"
 msgid "Cooling glass..."
-msgstr "Chłodzenie szkła..."
+msgstr "Chłodzenie/hartowanie szkła..." (?)
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT3
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT3"
 msgid "Cooling glass..."
-msgstr "Chłodzenie szkła..."
+msgstr "Chłodzenie/hartowanie szkła..." (?)
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT4
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT4"
@@ -14967,17 +14967,17 @@ msgstr "Kopanie dołków..."
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT7
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT7"
 msgid "Adding buckets of dirt..."
-msgstr "Nabieranie ziemi do wiaderek..."
+msgstr "Dodawanie wiaderek ziemi..." (?)
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT8
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT8"
 msgid "Adding buckets of dirt..."
-msgstr "Nabieranie ziemi do wiaderek..."
+msgstr "Dodawanie wiaderek ziemi..." (?)
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT9
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT9"
 msgid "Adding buckets of dirt..."
-msgstr "Nabieranie ziemi do wiaderek..."
+msgstr "Dodawanie wiaderek ziemi..." (?)
 
 #. STRINGS.UI.WORLDGEN.CONVERTTERRAINCELLSTOEDGES
 msgctxt "STRINGS.UI.WORLDGEN.CONVERTTERRAINCELLSTOEDGES"
@@ -15187,12 +15187,12 @@ msgstr "O rany, spróbujmy jeszcze raz."
 #. STRINGS.UI.WORLDGEN.SETTLESIM
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM"
 msgid "Infusing oxygen..."
-msgstr "Uwalnianie tlenu..."
+msgstr "Podawanie/dostarczanie tlenu..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM1
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM1"
 msgid "Infusing oxygen..."
-msgstr "Uwalnianie tlenu..."
+msgstr "Podawanie/dostarczanie tlenu..." (?)
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM2
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM2"
@@ -15252,7 +15252,7 @@ msgstr "Zamrażanie formacji lodowych..."
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT10
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT10"
 msgid "Sprinkling sand..."
-msgstr "Sypanie piasku..."
+msgstr "Przesypywanie piasku..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT2
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT2"
@@ -15267,29 +15267,29 @@ msgstr "Zamrażanie formacji lodowych..."
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT4
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT4"
 msgid "Melting magma..."
-msgstr "Mieszanie magmy..."
+msgstr "Wytapianie magmy..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT5
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT5"
 msgid "Melting magma..."
-msgstr "Mieszanie magmy..."
+msgstr "Wytapianie magmy..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT6
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT6"
 msgid "Melting magma..."
-msgstr "Mieszanie magmy..."
+msgstr "Wytapianie magmy..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT7
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT7"
 msgid "Sprinkling sand..."
-msgstr "Sypanie piasku..."
+msgstr "Przesypywanie piasku..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT8
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT8"
 msgid "Sprinkling sand..."
-msgstr "Sypanie piasku..."
+msgstr "Przesypywanie piasku..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT9
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
-msgstr "Sypanie piasku..."
+msgstr "Przesypywanie piasku..."
